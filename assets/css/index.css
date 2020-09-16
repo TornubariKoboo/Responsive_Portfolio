@@ -1,4 +1,5 @@
 .navbar-light .navbar-brand {
-    color: #e9ecef;
-    background:blue
+    background-color: teal;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
