@@ -1,5 +1,9 @@
 .navbar-light .navbar-brand {
     background-color: teal;
     color: white;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+body {
+    background-image: url(https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png);
+   }
+
