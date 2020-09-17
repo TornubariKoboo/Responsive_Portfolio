@@ -51,7 +51,8 @@ body {
 
 /* Editted the submit on the card */
 .card_submit {
-  color: teal;
+  background-color: teal;
   font-family: "Times New Roman", Times, serif;
   font-size: 300%;
+  color: white;
 }
